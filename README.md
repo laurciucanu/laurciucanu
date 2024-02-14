@@ -24,4 +24,4 @@ I am Laurentiu Ciucanu and I am an experienced Software Engineer with a demonstr
 
 Here is a cool profile overview from <a href="https://app.daily.dev/">app.daily.dev</a> You should generate one too!
 
-<a href="https://app.daily.dev/laurciucanu"><img src="https://github.com/laurciucanu/laurciucanu/blob/master/devcard.svg" width="400" alt="Laurentiu Ciucanu's Dev Card"/></a>
+<a href="https://app.daily.dev/laurciucanu"><img src="https://github.com/laurciucanu/laurciucanu/blob/main/devcard.svg" width="400" alt="Laurentiu Ciucanu's Dev Card"/></a>
