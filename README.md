@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 I am Laurentiu Ciucanu and I am an experienced Software Engineer with a demonstrated history of working in the information technology and services industry. Skilled in Java, C/C++, Python. Strong engineering professional with a Bachelor's degree focused in Computer Science from Faculty of Computer Science Iasi.
 
-- 🔭 I’m currently working on a project in the field of insurance as Java Backend Developer
+- 🔭 I’m currently working on a banking project as Java Backend Developer
 - 🌱 I’m currently learning Kafka and SQS
-- 👯 I’m looking to collaborate on backend project with Java as the main programming language
-- 💬 Ask me about Java, Springboot, AWS
+- 👯 I’m looking to collaborate on backend project with Java/Kotlin as the main programming language
+- 💬 Ask me about Java, Springboot, Micronaut, AWS
 - 📫 How to reach me: You can send me a message/connection on my <a href="https://www.linkedin.com/in/laurentiu-ciucanu-5a0a86147/">Linkedin profile</a>
 
 Here is a cool profile overview from <a href="https://app.daily.dev/">app.daily.dev</a> You should generate one too!
